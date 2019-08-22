@@ -12,4 +12,4 @@ int power(int m, int n)
 	for (p = 1; n > 0; n--)
 		p = p * m;
 	return p;
-}
+} 
