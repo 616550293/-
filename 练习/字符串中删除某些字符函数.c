@@ -10,3 +10,5 @@ void squeeze(char s[], char c[])
 		s[j] = '\0';
 	}
 }
+
+//ÄãºÃ
