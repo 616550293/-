@@ -13,7 +13,7 @@ void squeeze(char s[], char c[])
 	}
 }
 
-int main()
+void main(void)
 {
 	char s[1000];
 	char c[1000];
